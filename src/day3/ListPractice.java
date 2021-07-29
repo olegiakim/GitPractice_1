@@ -7,4 +7,5 @@ public class ListPractice {
 
     List<String> lst = new ArrayList<>();
     // adding one item
+    // adding one more item
 }
