@@ -12,5 +12,7 @@ public class Movie {
     // watching 10 more mins
     // watching until 25 mins
 
-    // this is stuff from master
+
+    //added some movie
+    //done with tc100
 }
