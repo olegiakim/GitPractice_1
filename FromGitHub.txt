@@ -1,2 +1,4 @@
 
 THIS IS MORE STUFF I added from remote
+
+This is cool commit from local
