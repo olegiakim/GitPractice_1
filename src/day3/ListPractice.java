@@ -1,0 +1,11 @@
+package day3;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListPractice {
+
+    List<String> lst = new ArrayList<>();
+    // adding one item
+    // adding one more item
+}
