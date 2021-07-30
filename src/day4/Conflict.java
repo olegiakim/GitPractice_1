@@ -6,6 +6,7 @@ public class Conflict {
     // This is collection branch content
 
     //Approved
+    // MY RESOLVING MERGE CONFLICT
 
-    //Add a different comment in the class `Conflict` with `This is the change collection2 branch does not know about
+    //MORE WORK ON COLLECTION2
 }
